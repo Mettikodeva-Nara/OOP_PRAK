@@ -1,0 +1,8 @@
+*.docx
+.vscode
+SIR*.pdf
+/QC/build
+*.exe
+*.html
+*.png
+*.jpg
